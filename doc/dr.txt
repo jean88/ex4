@@ -1,0 +1,12 @@
+ex04
+
+?/10
+
+copié de Sergio Navarro ?
+
+(-1) pubspec.yaml: EX4 -> ex4
+
+model: design.name = 'Backbone.js';
+(-1) name ?
+
+(-2) tests: couleur rouge
