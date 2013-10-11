@@ -1,12 +1,13 @@
 ex04
 
-?/10
-
-copié de Sergio Navarro ?
+4/10
 
 (-1) pubspec.yaml: EX4 -> ex4
 
-model: design.name = 'Backbone.js';
+warning: model: design.name = 'Backbone.js';
 (-1) name ?
 
 (-2) tests: couleur rouge
+(-2) 0 PASSED, 0 FAILED, 5 ERRORS
+Unhandled exception:
+Exception: Some tests failed.
